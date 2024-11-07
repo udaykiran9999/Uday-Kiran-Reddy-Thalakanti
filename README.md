@@ -1,6 +1,6 @@
 <p>Hey Hi, Great to see you here, This is</p>
 <h1>Uday Kiran Reddy Thalakanti 🤝</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74427&width=435&lines=Data+Enthusiast;Data+Engineer;Python+Developer;Photographer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74427&width=435&lines=Data+Enthusiast 📖;Data+Engineer 💻;Python+Developer 🐍;Photographer 📸" alt="Typing SVG" /></a>
 
 <h3>I am a Data Enthusiast 📖, Data Engineer 💻, Python Developer 🐍, Photographer 📸, Traveller 👜</h3>
 
